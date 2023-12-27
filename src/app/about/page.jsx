@@ -2,7 +2,7 @@ import React from 'react'
 
 export default function page() {
   return (
-    <div className='max-w-6xl mx-auto space-y-4'>
+    <div className='max-w-6xl mx-auto space-y-4 p-4'>
     <h1 className='text-2xl font-medium text-amber-600'>About</h1>
     
     <p>Contrary to popular belief, Lorem Ipsum is not simply random text. There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet.</p>
